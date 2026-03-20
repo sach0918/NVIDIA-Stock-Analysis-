@@ -103,7 +103,6 @@ The following analyses were performed:
 
 * Model struggles to predict downward movements
 * High correlation among moving averages (feature redundancy)
-* Stock market data is noisy and difficult to predict
 * Accuracy alone is not sufficient to evaluate performance
 
 ---
@@ -128,7 +127,7 @@ The following analyses were performed:
 
 ## 📌 Conclusion
 
-This project demonstrates how financial data, technical indicators, and machine learning can be combined to analyze stock behavior and make predictions. While the model shows moderate predictive capability, it highlights the complexity and uncertainty inherent in financial markets.
+This project demonstrates how financial data, technical indicators, and machine learning can be combined to analyze stock behavior and make predictions. The exploratory data analysis shows us the trends and how the stock behaves when major events occured, stock behaviour when the stock was split, and these details are very important for an investor to analyze and understand the stock performance before investing. While the model shows moderate predictive capability, it highlights the complexity and uncertainty inherent in financial markets.
 
 ---
 
