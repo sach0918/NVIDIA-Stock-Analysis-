@@ -1,5 +1,4 @@
 # NVIDIA-Stock-Analysis-
-# NVIDIA Stock Analysis and Prediction (1999–2026)
 
 ## 📌 Project Overview
 
