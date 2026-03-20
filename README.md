@@ -1,4 +1,4 @@
-# NVIDIA-Stock-Analysis-
+# NVIDIA-Stock-Analysis
 
 ## 📌 Project Overview
 
